@@ -17,7 +17,6 @@ super
 * 인스턴스 변수를 건들지 않을 것이라면 굳이 쓸 필요 없다. 상속만으로 해결 가능한 일이니.
 
 <pre><code>
-{
 
 class Food{
 	int bal;
@@ -37,5 +36,4 @@ class Potato extends Food {
 }
 
 
-}
 </code></pre>
